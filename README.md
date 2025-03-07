@@ -23,59 +23,61 @@ I am a college student trying his best to make an impact, search for my true pas
 ### Participation in Duckietown project
 
 ---
-
 ## 🧰 Languages and Tools
 
 <div style="background-color: #D3D3D3; padding: 10px; border-radius: 10px;">
 
 ### 📌 Full-Stack Development
 
-- **Well acquainted:**
-  - ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg) TypeScript
-  - ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg) JavaScript
-  - ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React
-  - ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg) Python
-  - ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) Django
+- **Proficient:**
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40px"/> TypeScript
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px"/> JavaScript
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/> React
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40px"/> Python
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40px"/> Django
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40px"/> MS SQL Server
 
 - **Solid Understanding:**
-  - ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg) Flask
-  - ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg) HTML
-  - ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg) CSS
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px"/> Flask
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px"/> HTML
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px"/> CSS
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px"/> PostgreSQL
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/> MySQL
 
-### 🔧 Embedded, Low-Level Development & Robotics
+### 🔧 Embedded & Low-Level Development
 
-- **Well acquainted:**
-  - ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg) C++
-  - ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) C
+- **Proficient:**
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40px"/> C++
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/> C
 
 - **Solid Understanding:**
-  - ![ROS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg) ROS
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="40px"/> ROS
 
 ### 🏗️ Infrastructure & DevOps
 
-- **Well acquainted:**
-  - ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git
-  - ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) GitHub
-  - ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg) Bash
-  - ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) Docker
+- **Proficient:**
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/> Git
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"/> GitHub
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px"/> Bash
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/> Docker
 
 - **Solid Understanding:**
-  - ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) Linux
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/> Linux
 
 - **Basic Understanding:**
-  - ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg) Kubernetes
-  - ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg) Jenkins
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40px"/> Kubernetes
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40px"/> Jenkins
 
 ### 🎮 Game Development
 
 - **Solid Understanding:**
-  - ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) C#
-  - ![Unity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg) Unity
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/> C#
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px"/> Unity
 
 ### 🧠 AI & Machine Learning
 
 - **Basic Understanding:**
-  - ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) TensorFlow
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px"/> TensorFlow
 
 ### 📚 Currently Learning
 
