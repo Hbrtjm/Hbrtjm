@@ -18,10 +18,10 @@ I am a college student trying his best to make an impact, search for my true pas
 
 ### TreeAIsle - An attempt to create a distributed machine learning app
 
-### OpenAGH 
+<!-- ### OpenAGH 
 
 ### Participation in Duckietown project
-
+-->
 ---
 ## 🧰 Languages and Tools
 
@@ -87,10 +87,10 @@ I am a college student trying his best to make an impact, search for my true pas
 
 ## 📊 Github stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Hbrtjm&show_icons=true&theme=gruvbox)
-
+<!--
 ## ❓ FAQ
 
 ##  Other details 
 
 ### Currently reading
-
+-->
