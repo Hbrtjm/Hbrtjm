@@ -29,6 +29,7 @@ I am a college student trying his best to make an impact, search for my true pas
 ### 📌 Full-Stack Development
 
 **Proficient:**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40px" alt="TypeScript" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px" alt="JavaScript" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React" align="left"/>
@@ -37,6 +38,7 @@ I am a college student trying his best to make an impact, search for my true pas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40px" alt="MS SQL Server" align="left"/>
 
 **Solid Understanding:**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40px" alt="Go" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40px" alt="MongoDB" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px" alt="Flask" align="left"/>
@@ -48,36 +50,43 @@ I am a college student trying his best to make an impact, search for my true pas
 ### 🔧 Embedded & Low-Level Development
 
 **Proficient:**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40px" alt="C++" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" alt="C" align="left"/>
 
 **Solid Understanding:**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="40px" alt="ROS" align="left"/>
 
 ### 🏗️ Infrastructure & DevOps
 
 **Proficient:**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40px" alt="Bash" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" alt="Docker" align="left"/>
 
 **Solid Understanding:**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" alt="Linux" align="left"/>
 
 **Basic Understanding:**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40px" alt="Kubernetes" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40px" alt="Jenkins" align="left"/>
 
 ### 🎮 Game Development
 
 **Solid Understanding:**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" alt="C#" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" alt="Unity" align="left"/>
 
 ### 🧠 AI & Machine Learning
 
 **Basic Understanding:**
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40px" alt="TensorFlow" align="left"/>
 
 ### 📚 Currently Learning
