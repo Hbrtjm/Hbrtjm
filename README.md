@@ -48,7 +48,7 @@ I am a college student trying his best to make an impact, search for my true pas
 ### 🔧 Embedded & Low-Level Development
 
 **Proficient:**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="40px" alt="C++" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px" alt="C++" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" alt="C" align="left"/><br><br>
 
 **Solid Understanding:**<br>
