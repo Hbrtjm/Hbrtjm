@@ -1,6 +1,7 @@
 # Hbrt
 
 **`Full(est)-stack developer`**
+<br>
 CS (senior) & Automation/Robotics (sophomore) @ AGH UST • Software Developer @ Remitly
 
 [LinkedIn](https://www.linkedin.com/in/hubert-miklas-773968278) • [Email](mailto:hbrtmiklas@student.agh.edu.pl)
