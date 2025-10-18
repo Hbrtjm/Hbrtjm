@@ -89,11 +89,11 @@ Lane/marker detection, PID steering, traffic sign following in a scale city.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px" alt="Docker" align="left"/><br><br>
 
 **Solid Understanding:**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" alt="Linux" align="left"/><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" alt="Linux" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40px" alt="Jenkins" align="left"/><br><br>
 
 **Basic Knowledge:**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40px" alt="Kubernetes" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40px" alt="Kubernetes" align="left"/><br><br>
 
 ### Game Development
 
