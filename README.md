@@ -2,7 +2,7 @@
 
 **`Full(est)-stack developer`**
 <br>
-CS (senior) & Automation/Robotics (sophomore) @ AGH UST • Software Developer @ Remitly
+CS (senior) & Automation/Robotics (sophomore) @ AGH UST • Software Developer @ [Remitly](https://www.linkedin.com/company/remitly/) • Algorithm Developer @ [Poznaj Góry](https://www.linkedin.com/company/poznajgory/) 
 
 [LinkedIn](https://www.linkedin.com/in/hubert-miklas-773968278) • [Email](mailto:hbrtmiklas@student.agh.edu.pl)
 
