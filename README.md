@@ -12,7 +12,7 @@ CS (senior) & Automation/Robotics (sophomore) @ AGH UST • Software Developer @
 ## About me
 
 
-I am a college student trying his best to make an impact, search for my true passion and make myself grow. I want to create something useful and beautiful. currently, I’m a student engineer who likes turning ideas into working software. I’m currently studying Computer Science (senior year) and Automation & Robotics (sophomore year, one gap year taken) at AGH UST. At Remitly I ship production code with a great team and learn fast by solving real problems. Trying to learn as much as I can from every field, so that I will have a potential to build expertise in any field.
+I am a college student trying my best to make an impact, find my true passion, and keep growing. I want to create things that are both useful and beautiful. Currently, I’m a student engineer who likes turning ideas into working software — studying Computer Science (senior year) and Automation & Robotics (sophomore year, one gap year taken) at AGH UST. At Remitly I ship production code with a great team and learn fast by solving real problems. I try to learn as much as I can across many fields, so I have the potential to build deep expertise wherever it matters most.
 
 --- 
 
@@ -20,8 +20,8 @@ I am a college student trying his best to make an impact, search for my true pas
 ### disABLEd.pl — accessible places map
 Crowdsourced map to help people with disabilities find accessible venues (ramps, elevators, entry width, restrooms).  
 **Role:** Backend developer — designed REST API (Django + DRF).  
-**Tech:** Python, Django, DRF, SQLLite
-**Links:** [repo](https://github.com/Project-disABLEd)
+**Tech:** Python, Django, DRF, SQLite  
+**Links:** [repo](https://github.com/Project-disABLEd)  
 **Highlights:** Shipped a working prototype used by classmates; learned API design and data modeling.
 
 ### TreeAIsle — distributed ML experiment
@@ -39,7 +39,7 @@ Step-by-step explanations and practice to strengthen algebra/calculus fundamenta
 ### Duckietown @ LFRobotics — mini self-driving car
 Lane/marker detection, PID steering, traffic sign following in a scale city.  
 **Role:** Computer vision + control; camera calibration, preprocessing, controller tuning.  
-**Tech:** Python, OpenCV, ROS, TensorFlow
+**Tech:** Python, OpenCV, ROS, TensorFlow  
 **Links:** [repo](https://github.com/firiusz123/duckietown)
 
 ---
@@ -103,7 +103,7 @@ Lane/marker detection, PID steering, traffic sign following in a scale city.
 ### AI/ML, Data Processing 
 
 **Solid Understanding:**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40px" alt="TensorFlow" align="left"/><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40px" alt="Pandas" align="left"/><br><br>
 
 
 **Basic Knowledge:**<br>
